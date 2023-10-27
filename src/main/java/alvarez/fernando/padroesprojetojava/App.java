@@ -1,4 +1,4 @@
-package alvarez.fernando;
+package alvarez.fernando.padroesprojetojava;
 
 /**
  * Hello world!

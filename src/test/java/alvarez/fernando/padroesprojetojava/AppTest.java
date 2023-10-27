@@ -1,4 +1,4 @@
-package alvarez.fernando;
+package alvarez.fernando.padroesprojetojava;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
